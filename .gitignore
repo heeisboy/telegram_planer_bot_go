@@ -1,0 +1,16 @@
+# Binaries
+bot
+*.exe
+*.out
+
+# Go build cache (usually not in repo, but safe)
+*.test
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# Env / secrets
+.env
+.env.*
